@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+.vite/
+*.egg-info/
+credentials.json
+token.json

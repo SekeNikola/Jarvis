@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jarvis_blue">#FF4FC3F7</color>
+    <color name="jarvis_cyan">#FF00E5FF</color>
+    <color name="jarvis_gold">#FFFFD54F</color>
+    <color name="jarvis_red">#FFEF5350</color>
+    <color name="surface_dark">#FF0D1117</color>
+    <color name="surface_card">#FF161B22</color>
+</resources>
